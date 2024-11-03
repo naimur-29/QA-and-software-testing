@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "qa-and-software-testing"
+version = "0.1.0"
+description = ""
+authors = ["Naim <skylike2904@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+selenium = "^4.26.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
